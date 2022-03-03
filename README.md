@@ -6,4 +6,4 @@ Tools:
 HTML
 CSS(SASS)
 
-[Omnifood - Live](#https://wojtalewicz-omnifood.herokuapp.com/index.html)
+[Omnifood - Live](https://wojtalewicz-omnifood.herokuapp.com/index.html)
